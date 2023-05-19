@@ -1,6 +1,2 @@
-#include<stdio.h>
-int main()
-{
-printf("hello-world\n");
-return 0;
-}
+//clone my git and build docker image 
+// which will use dockerfile and creates images and runs
