@@ -1,4 +1,4 @@
-#clone my git and build docker image 
+# (In Ubuntu)Clone my git and build docker image 
 ## Make sure you are in the Nginx directory that you cloned.
 ## Run these commands 
  - docker build -t test .
