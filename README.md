@@ -5,6 +5,6 @@
  - docker run -d --name nginx-base --network host test
 ## Create RMC application containers also as below
  - docker run -d --name container-name --network host image-name
- - Don't forget to replace 'container-name' with your container name and 'image-name' with your image name 
+ - Don't forget to replace 'container-name' with the container name of your choice and 'image-name' with the image name that you build
 
 ## Create TSC Application Containers same as above.
